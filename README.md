@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dBozee
+- 👀 I’m interested in ... Software development, gaming, and general computer hardware and peripherals.
+- 🌱 I’m currently learning ... C#, SQL, and general networking.
+- 💞️ I’m looking to collaborate on ... Anything that will help me learn to be better.
+- 📫 How to reach me ... DMs are great.
